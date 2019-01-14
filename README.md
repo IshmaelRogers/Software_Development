@@ -12,7 +12,7 @@ Software Processes model
 How should we put activities together to bring a software to life. Determining the order and transition criteria. 
 
 
-# * Waterfall 
+# Waterfall 
 
 1. Software concept 
 2. Requirements analysis 
@@ -26,7 +26,7 @@ Disadvantage - lack of flexiblity
 
 NOTE: Less than ideal for real worl projects 
 
-# * Spiral - a way of going through each face in an iterative way to learn more about the software
+# Spiral - a way of going through each face in an iterative way to learn more about the software
 
 1. Determine objects 
 2. Identify and resolve risks
@@ -46,7 +46,7 @@ Disadvntage
 2. Highly complex and costly to implement
 
 
-* Agile - A group of Software development methods that are based on iterative and c=incremental development 
+# Agile - A group of Software development methods that are based on iterative and c=incremental development 
 
 TTD
 ---
@@ -58,7 +58,7 @@ TTD
 Extreme programming 
 
 
-# * RUP/USP (Unified Software Process) -
+# RUP/USP (Unified Software Process) -
 
 1. Business modeling 
 2. Requirements 
@@ -69,7 +69,7 @@ Extreme programming
 
 
 
-# * Evolutionary prototyping - start at parts that are well understood.
+#  Evolutionary prototyping - start at parts that are well understood.
 
 1. concept 
 2. Design and implement a prototype 
@@ -106,17 +106,11 @@ https://www.udacity.com/wiki/sdp/projects#docs
 Classic Mistakes 
 
 
-
-
-
-
-
-
-
 Software Phases
 ---
 
-* Requirements engineering - the field that deals with establishing needs of stakebholders to be solved by the software. 
+* Requirements engineering - the field that deals with establishing needs of stakebholders to be solved by the software.
+
   1. Cost of life correlation (cost of error vs phase it is found) 
 
   Collecting requirements 
@@ -132,19 +126,17 @@ Software Phases
   5. Management 
 
 
-
-
 * Design - software requirements are analyzed to produce description of the internal structure and orgnanization of the system.
 
 # Design Activities:                Design products
 J (high level to low level)
 
-1. Architectural Design          System structure
-2. Abstract specification        Software specification
-3. Interface Design 			 Interface Specification 
-4. Component Design 		     Component Specification 
-5. Data Structure 				 Data structure specificatiin 
-6. Algorithm design 			 Algorithm Specification 
+1. Architectural Design             System structure
+2. Abstract specification           Software specification
+3. Interface Design 			          Interface Specification 
+4. Component Design 		            Component Specification 
+5. Data Structure 				          Data structure specificatiin 
+6. Algorithm design 			          Algorithm Specification 
 
 
 
